@@ -1,0 +1,62 @@
+#sg{
+    /* border: 2px solid; */
+    height: 490px;
+    margin-top: 90px;
+    background: linear-gradient(rgb(176, 35, 194) 15%,
+     rgb(96, 11, 231));
+}
+#sg h2{
+    font-size: 50px;
+    padding-top: 190px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+    display: block;
+    width: 100%;
+    letter-spacing: -0.02em;
+
+}
+#ques{
+    /* border: 2px solid; */
+    height: 600px;
+}
+#sub-ques{
+    width: 70%;
+    height: 120px;
+    margin: auto;
+}
+#sub-ques h2{
+    display: grid;
+    place-items: center;
+    padding-top: 40px;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+ 
+
+#list0{
+    list-style: none;
+    padding-left: 160px;
+
+
+}
+details>summary{
+    list-style: none;
+}
+.svg{
+    border: 3px ;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    align-items: center;
+    font-size: 19px;
+    padding: 30px 25px;
+    position: relative;
+}
+.svg:hover{
+    cursor: pointer;
+    background-color: rgb(246, 245, 245);
+    text-decoration: underline;
+    
+}

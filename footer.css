@@ -1,0 +1,108 @@
+#foot{
+    border: 2px solid;
+    height: 650px;
+}
+#footer{
+    background-color: #000;
+    width: 100%;
+    margin: auto;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#footer span svg{
+    height: 3em;
+    fill: #fff;
+    display: block;
+    position: relative;
+    top: 130px;
+    left: 180px;
+    margin-bottom: 420px; 
+}
+
+#sub-con{
+    position: absolute;
+    top: 3040px;
+    left: 400px;
+    line-height: 35px;
+    color: #fff;
+}
+#sub-con:hover{
+    cursor: pointer;
+     color: #1ed760;
+}
+#sub1{
+    position: absolute;
+    top: 3040px;
+    left: 580px;
+    line-height: 35px;
+    color: #fff;
+}
+#sub1:hover{
+    cursor: pointer;
+     color: #1ed760;
+}
+
+#sub2{
+    position: absolute;
+    top: 3040px;
+    left: 800px;
+    line-height: 35px;
+    color: #fff;
+
+}
+#sub2:hover{
+    cursor: pointer;
+     color: #1ed760;
+}
+#icon1{
+    position: absolute;
+    top: 3050px;
+    left: 1110px;
+}
+
+#icon2{
+    position: absolute;
+    top: 3050px;
+    left: 1170px;
+}
+
+#icon3{
+    position: absolute;
+    top: 3050px;
+    left: 1230px;
+}
+#icon4{
+    position: absolute;
+    left: 1200px;
+    padding-top: 390px;
+    
+    color: gray;
+   
+}
+#icon4:hover{
+    cursor: pointer;
+    color: #1ed760;
+}
+.sss {
+    list-style: none;
+    display: flex;
+   
+    /* border: 2px solid white; */
+    height: 100px;
+    color: grey;
+    margin-top: 540px;    
+}
+.sss li{
+    margin-left: 30px;
+}
+.sr:hover{
+    cursor: pointer;
+    color: #1ed760;
+}
+#cls{
+    padding-left: 320px;
+    margin-left: 250px;
+    
+}

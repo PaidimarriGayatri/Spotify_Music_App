@@ -1,0 +1,31 @@
+#play{
+    height: 500px;
+    margin-top: 90px;
+    background: url("./image/lets-play.svg")
+    left -10px bottom -160px / 100% 1114px no-repeat, 
+    linear-gradient(-45deg, rgb(108, 14, 224) 16%, 
+    rgb(240, 55, 166)) rgb(108, 14, 224);
+}
+#sub-play h1{
+    line-height: 1.2;
+    font-size: 80px;
+    color: #fff;
+    font-weight: 600;
+    padding-top: 180px;
+    text-align: center;
+    width: 100%;
+
+}
+#sub-play button{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px; 
+    margin-left: 430px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    
+}
